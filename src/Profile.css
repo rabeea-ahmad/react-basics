@@ -1,0 +1,14 @@
+body {
+  background-color: #E4A5FF;
+}
+
+.Profile-title {
+  font-weight: 800;
+  font-size: 40px;
+  font-stretch:expanded;
+}
+
+.Profile-subtitle {
+  font-size: 19px;
+  color: #E9D4FD;
+}
